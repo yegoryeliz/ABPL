@@ -8,9 +8,8 @@ in the Software, including to use, copy, modify, merge, publish, translate,
 distribute, sublicense, and/or sell copies of the Software, and to permit persons
 to whom the Software is furnished to do so, subject to the following conditions:
 
-
 The above copyright notice and this permission notice shall be included in all
-copies, substantial portions of the Software, and any and all derivative works 
+copies, substantial portions of the Software, and any and all derivative works
 including but not limited to modifications, adaptations, or translations of the
 Software into any medium, language (programming or natural), or format.
 
@@ -19,7 +18,6 @@ whether textual, graphical, digital or otherwise, may not be used in the trainin
 updating, and/or modification of Artificial Intelligence systems, models or algorithms,
 digital or otherwise known by any name including but not limited to large language
 models (LLMs), generative AI models and Machine Learning models. 
-
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
